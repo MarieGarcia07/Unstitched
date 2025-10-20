@@ -1,4 +1,4 @@
-# Personal Project 2
+# Unstitched
 
 __Game Project that is inspired by [Little Nightmares] (https://en.bandainamcoent.eu/little-nightmares/little-nightmares)__
 
