@@ -25,10 +25,11 @@ The game will include the following:
 * Open/Close objects
 * Puzzle rooms to escape
 * Companion AI that helps with puzzles
+* Ability to switch controls to play as the companion
 
 ## Major Components
 
-The major components of this game includes the ability to interact with the environment and the companion AI. 
+The major components of this game includes the ability to interact with the environment and the companion AI. Since this is a horror-puzzle game, the environment around the player needs to be interactable in order to explore ways to escape the rooms. The player will not be able to escape the room without using the companion AI to help. These two go hand in hand to be able to successfully win the game. With the ability to switch controls between the main character and the companion, the player will have to keep in mind both environments and how each playable character can unlock methods that will lead to their escape. 
 
 ## Structure
 
