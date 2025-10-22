@@ -41,7 +41,7 @@ The ```Player``` class has the following responsibilities:
 
 * Basic movement controls.
 
-<img width="673" height="461" alt="Screenshot 2025-10-22 114110" src="https://github.com/user-attachments/assets/02e5a871-6c8a-4619-a696-bc0d4e528a64" />
+<img width="486" height="428" alt="Screenshot 2025-10-22 114217" src="https://github.com/user-attachments/assets/e8938f36-0923-403d-a99e-144b38a7ea34" />
 
 * Pushing and Pulling functions.
   * Pushing allows the player to push objects with a rigidbody + collider.
