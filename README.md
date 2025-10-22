@@ -41,6 +41,8 @@ The ```Player``` class has the following responsibilities:
 
 * Basic movement controls.
 
+<img width="673" height="461" alt="Screenshot 2025-10-22 114110" src="https://github.com/user-attachments/assets/02e5a871-6c8a-4619-a696-bc0d4e528a64" />
+
 * Pushing and Pulling functions.
   * Pushing allows the player to push objects with a rigidbody + collider.
   * Pulling allows the player to pull objects backwards along the z axis.
@@ -51,6 +53,8 @@ if( isPulling)
     currentSpeed = pullSpeed;
 }
 ```
+
+<img width="559" height="381" alt="Screenshot 2025-10-22 114130" src="https://github.com/user-attachments/assets/6061ebf7-216a-4049-a1ed-bb964da9021b" />
 
 * Whistle function to call the companion's ```Follower``` script.
 
@@ -67,6 +71,8 @@ if (distanceToPlayer > runDistance)
 else
     agent.speed = 2f; // walk
 ```
+
+<img width="674" height="488" alt="Screenshot 2025-10-22 114247" src="https://github.com/user-attachments/assets/2e0d978d-f136-4f62-9d5d-79a273f4151b" />
 
 * After the companion reaches the player's stopped position, they will stop following.
 
