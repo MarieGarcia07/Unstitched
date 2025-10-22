@@ -1,6 +1,6 @@
 # Unstitched
 
-__Game Project that is inspired by [Little Nightmares] (https://en.bandainamcoent.eu/little-nightmares/little-nightmares)__
+__ Unstitched is a Game Project that is inspired by [Little Nightmares] (https://en.bandainamcoent.eu/little-nightmares/little-nightmares)__
 
 * Engine Configuration
 
