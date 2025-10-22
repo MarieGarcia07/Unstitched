@@ -9,7 +9,26 @@ __Game Project that is inspired by [Little Nightmares] (https://en.bandainamcoen
 |Original|Unity|6000.1.2f1|
 |Fixed|Unity|6000.1.17f1|
 
-------- 
+-------
+
+## Description
+
+This is a game project that is inspired by the Little Nightmare game series developed by Bandai Namco Entertainment. It will have a similar horror aesthetic and a companion AI. There will be no enemies, instead you will have to escape rooms that are blocked off.
+
+## Features
+The game will include the following:
+
+* Movement + jumping & running
+* 2.5D Camera that follows the player
+* Ability to pick up/hold/throw objects
+* Ability to push/pull objects
+* Open/Close objects
+* Puzzle rooms to escape
+* Companion AI that helps with puzzles
+
+## Major Components
+
+The major components of this game includes the ability to interact with the environment and the companion AI. 
 
 ## Structure
 
